@@ -13,7 +13,7 @@ Course Project: Shiny Application and Reproducible Pitch for Developing Data Pro
 3. We use the historical data to estimate the effect of those factors on car's miles per gallon.
 4. Use our model to estimate your car's miles per gallon, and you can make a good decision
 
---- .class #id 
+--- 
 
 ## Data of Car's Miles/Gallon
 
