@@ -1,10 +1,15 @@
-
-Find Out What Is Your Car's Miles/Gallon
-======
-
-Course Project: Shiny Application and Reproducible Pitch for Developing Data Products
-
-
+---
+title       : Find Out What Is Your Car's Miles/Gallon
+subtitle    : 
+author      : Jon Duan
+job         : Project for Developing Data Produts
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
 
 ## Motivation
 
@@ -62,3 +67,7 @@ coef(fit)
 - Enter your car's Number of cylinders, Gross horsepower, and Number of forward gears.
 - Push the "Submit" button, and the miles/gallon will show on the right side of the page.
 - Enjoy!
+
+
+
+
